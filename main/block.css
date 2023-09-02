@@ -1,0 +1,32 @@
+.container-img{
+    text-align: center;
+}
+.container-msg{
+    padding: 50px;
+    text-align: center;
+}
+.container-heading{
+    text-decoration: underline;
+}
+.container-p{
+    font-family: "Roboto";
+    font-size: medium;
+}
+.container{
+    margin-bottom: 20px;
+    padding-bottom: auto;
+}
+.button{
+    background-color: transparent;
+    border-color: aqua;
+    border-radius: 10px;
+    border-style:ridge;
+    text-align: center;
+    margin: 20px;
+}
+
+
+
+
+
+
